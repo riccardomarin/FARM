@@ -56,7 +56,7 @@ Several parts of this pipeline come from third parts contributions; in particula
 * Coherent Point Drift (CPD): https://sites.google.com/site/myronenko/research/cpd
 
 
-Finally, some Matlab ToolBoxes are required (e.g. Symbolic).
+Finally, some Matlab ToolBoxes are required (e.g. Symbolic, Parallel Computing).
 
 ## Citation
 If you use this code, please cite the following:
@@ -71,5 +71,6 @@ url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13751},
 ```
 
 ## License
+Please check the license terms (also of third parts software) before downloading and/or using the code, the models and the data. 
 
 ## Acknowledgements
