@@ -32,7 +32,7 @@ Fitting_2.py
 ARAP.m
 ```
 
-We provide two example to verify the setup is done correctly.
+We provide two shapes from FAUST and TOSCA to verify the setup is done correctly.
 The output is stored in the directory:
 
 ```
