@@ -42,9 +42,10 @@ Results\ARAP
 Other directories contain results after each steps and other useful computations (e.g. FMAP correspondence, landmarks, hands and head patches).
 
 ## Requirements
-This code is tested over Windows 10 64bit w\ Matlab 2017a and above. All necessary files are already conteined inside this repository.
+This code is tested over Windows 10 64bit w\ Matlab 2017a and above, and Python 2.7 (but parsing to 3 should be easy). 
+All necessary files are already conteined inside this repository.
 
-Several parts of this pipeline come from third parts contributions; in particular we would list the following credits:
+Several pieces of this pipeline come from third parts contributions; in particular we would list the following credits:
 * SMPL model: http://smpl.is.tue.mpg.de
 * File readers and ARAP implementation: https://github.com/alecjacobson/gptoolbox
 * Functional Maps frameworks (w\ commutativity): http://www.lix.polytechnique.fr/~maks/publications.html
@@ -54,7 +55,6 @@ Several parts of this pipeline come from third parts contributions; in particula
 * Discrete Time Evolution Process (DEP) for landmarks: https://sites.google.com/site/melzismn/publications
 * FLANN: https://www.cs.ubc.ca/research/flann/
 * Coherent Point Drift (CPD): https://sites.google.com/site/myronenko/research/cpd
-
 
 Finally, some Matlab ToolBoxes are required (e.g. Symbolic, Parallel Computing).
 
