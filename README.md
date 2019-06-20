@@ -3,7 +3,7 @@ Marin, R. and Melzi, S. and Rodolà, E. and Castellani, U., FARM: Functional Aut
 [[Project page]](http://profs.scienze.univr.it/~marin/farm/index.html) [[arXiv]](https://arxiv.org/abs/1807.10517)
 
 <p align="center">
-<img src="http://profs.scienze.univr.it/~marin/images/challenging.png"
+<img src="teaser.png"
 </p>
   
 ## Contents
