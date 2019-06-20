@@ -72,5 +72,5 @@ url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13751},
 
 ## License
 Please check the license terms (also of third parts software) before downloading and/or using the code, the models and the data. 
-
-## Acknowledgements
+All code and results obtained from it not already covered by other licenses has to be intendend only for non-commercial scientific research purposes.
+Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, or production of other artefacts for commercial purposes including, for example, 3D models, movies, or video games. 
