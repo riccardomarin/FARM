@@ -3,7 +3,7 @@ Marin, R. and Melzi, S. and Rodolà, E. and Castellani, U., FARM: Functional Aut
 [[Project page]](http://profs.scienze.univr.it/~marin/farm/index.html) [[arXiv]](https://arxiv.org/abs/1807.10517)
 
 <p align="center">
-<img src="http://profs.scienze.univr.it/~marin/farm/interpblue.mp4"
+<img src="http://profs.scienze.univr.it/~marin/images/challenging.png"
 </p>
   
 ## Contents
@@ -15,11 +15,13 @@ Marin, R. and Melzi, S. and Rodolà, E. and Castellani, U., FARM: Functional Aut
 
 ## Quick-start
 The code runs over all meshes inside "Testset" directory. 
-To run the whole pipline adjust the paths inside: 
+
+To run the whole pipline adjust the paths of Matlab and Python interpreters inside the file: 
 ```
-Pipeline\test.bat
+Pipeline\run_me.bat
 ```
-and lunch it.
+and run it.
+
 You can also run each step individually, following this order:
 ```
 First_round.m
