@@ -1,6 +1,6 @@
 # FARM
 Marin, R. and Melzi, S. and Rodolà, E. and Castellani, U., FARM: Functional Automatic Registration Method for 3D Human Bodies, CGF 2019
-[[Project page]](http://profs.scienze.univr.it/~marin/farm/index.html) [[arXiv]](https://arxiv.org/abs/1807.10517)
+[[Project page]](http://profs.scienze.univr.it/~marin/farm/index.html) [[arXiv]](https://arxiv.org/abs/1807.10517) [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13751)
 
 <p align="center">
 <img src="teaser.png"
