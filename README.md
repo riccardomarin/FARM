@@ -65,8 +65,15 @@ If you use this code, please cite the following:
 author = {Marin, R. and Melzi, S. and Rodolà, E. and Castellani, U.},
 title = {FARM: Functional Automatic Registration Method for 3D Human Bodies},
 journal = {Computer Graphics Forum},
+volume = {39},
+number = {1},
+pages = {160-173},
+keywords = {3D shape matching, modelling, digital geometry processing, geometric modelling, • Computing methodologies → Shape modelling, Shape analysis},
 doi = {10.1111/cgf.13751},
 url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13751},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13751},
+abstract = {Abstract We introduce a new method for non-rigid registration of 3D human shapes. Our proposed pipeline builds upon a given parametric model of the human, and makes use of the functional map representation for encoding and inferring shape maps throughout the registration process. This combination endows our method with robustness to a large variety of nuisances observed in practical settings, including non-isometric transformations, downsampling, topological noise and occlusions; further, the pipeline can be applied invariably across different shape representations (e.g. meshes and point clouds), and in the presence of (even dramatic) missing parts such as those arising in real-world depth sensing applications. We showcase our method on a selection of challenging tasks, demonstrating results in line with, or even surpassing, state-of-the-art methods in the respective areas.},
+year = {2020}
 }
 ```
 
